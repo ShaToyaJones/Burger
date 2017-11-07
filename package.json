@@ -1,0 +1,26 @@
+{
+  "name": "burger",
+  "version": "1.0.0",
+  "description": "a burger logger with mysql, node, express, handlebars, and a homemade orm.",
+  "main": "index.js",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "method-override": "^2.3.10",
+    "mysql": "^2.15.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShaToyaJones/Burger.git"
+  },
+  "author": "ShaToya Jones",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ShaToyaJones/Burger/issues"
+  },
+  "homepage": "https://github.com/ShaToyaJones/Burger#readme"
+}
