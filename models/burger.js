@@ -1,3 +1,6 @@
+<script src="http://code.jquery.com/jquery-1.11.0.min.js">
+
+
 // Import orm.js
 var connection = require("../config/orm.js");
 
@@ -64,3 +67,4 @@ $(function() {
 
 //Export burger.js
 module.exports = burger.js
+</script>
