@@ -62,5 +62,5 @@ $(function() {
   });
 });
 
-//Export burger.js
-module.exports = burger.js
+//Export burgers.js
+module.exports = burgers.js
